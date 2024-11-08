@@ -1,5 +1,5 @@
-#ifndef __ALLANDCAMBIER_H__
-#define __ALLANDCAMBIER_H__
+#ifndef __CINEMA_H__
+#define __CINEMA_H__
 #define MAX_STRING_LENGTH 71                                                        //constante -> determine le nombre maximun de caracteres dans les chaines de carac.
 #define NB_SALLES 14                                                                //constante -> nombre de salles
 #define PRIX_3D 1.5                                                                 //constante -> prix en 3D
